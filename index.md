@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-br">
 <head>
   <link href="https://vjs.zencdn.net/7.10.2/video-js.css" rel="stylesheet" />
