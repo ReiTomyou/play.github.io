@@ -18,8 +18,7 @@
     poster="MY_VIDEO_POSTER.jpg"
     data-setup="{}"
   >
-    <source src="MY_VIDEO.mp4" type="video/mp4" />
-    <source src="frame.webm" type="video/webm" />
+    <source src="ifrm" type="video/webm" />
     <p class="vjs-no-js">
       To view this video please enable JavaScript, and consider upgrading to a
       web browser that
@@ -30,5 +29,6 @@
   </video>
 
   <script src="https://vjs.zencdn.net/7.10.2/video.min.js"></script>
+
 </body>
 </html>
